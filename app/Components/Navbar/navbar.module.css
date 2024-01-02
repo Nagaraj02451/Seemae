@@ -1,0 +1,101 @@
+.maintop{
+    width: 100%;
+}
+.main{
+    width: 100%;
+    height: 11.5vh;
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* margin-top: 50px; */
+    /* border: 1px solid red; */
+}
+.ordernow{
+    width: 185px;
+height: 50px;
+border: 2px solid #312923;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.linethrow{
+    width: 100%;
+    height: 2px;
+    background: #312923;
+}
+.menu{
+    display: none;
+}
+.main img{
+    width: 232.005px;
+height: 57.925px;
+}
+.tgrdjycvhgj{
+    display: none;
+}
+
+.tgrdjycvhgj4wtf4r{
+    width: 95.5%;
+    height: 40vh;
+    /* border: 1px solid red; */
+    position: absolute;
+    display: block;
+    background-color:#312923;
+    color: white;
+    animation-name: hgfhfu;
+    animation-timing-function: ease-in-out;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+}
+@keyframes hgfhfu {
+    0%{
+        transform: translateY(-400px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+.ordernowui{
+    width: 185px;
+    height: 50px;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.fxghcvjb{
+    width: 100%;
+    text-align: center;
+    margin-top: 25%;
+}
+.dxfcghvj{
+    width: 100%;
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: center;
+}
+@media (max-width : 900px) {
+    .menubar{
+        display: none;
+    }
+    .ordernow{
+        display: none;
+    }
+    .menu{
+        display: block;
+    }
+    .main{
+        display: flex;
+        justify-content: space-between;
+    }
+    .main img{
+        width: 171.995px;
+        height: 42.942px;
+    }
+    .koihgug{
+        display: block;
+    }
+}
